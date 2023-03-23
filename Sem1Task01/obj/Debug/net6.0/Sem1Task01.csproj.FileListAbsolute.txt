@@ -1,0 +1,15 @@
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.csproj.AssemblyReference.cache
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.AssemblyInfoInputs.cache
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.AssemblyInfo.cs
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.csproj.CoreCompileInputs.cache
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\bin\Debug\net6.0\Sem1Task01.exe
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\bin\Debug\net6.0\Sem1Task01.deps.json
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\bin\Debug\net6.0\Sem1Task01.runtimeconfig.json
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\bin\Debug\net6.0\Sem1Task01.dll
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\bin\Debug\net6.0\Sem1Task01.pdb
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.dll
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\refint\Sem1Task01.dll
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.pdb
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\Sem1Task01.genruntimeconfig.cache
+C:\Users\chuba\OneDrive\Рабочий стол\geekbrains\Семинары\C_sharp\GB4148\Sem1Task01\obj\Debug\net6.0\ref\Sem1Task01.dll
