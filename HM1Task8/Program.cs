@@ -11,16 +11,29 @@ string? inLine = Console.ReadLine();        //Считываем данные с
 if(inLine!=null)
 {
     int Num = int.Parse (inLine);
-    
     int numN = 1;
     string res = string.Empty;
-    while(numN<(Num+1))
+    if(Num>0)
     {
-        if(numN%2==0)
+        while(numN<(Num+1))
             {
-                res = res + numN + " "; //накапливаем значения    
+                if(numN%2==0)
+                    {
+                        res = res + numN + " "; //накапливаем значения    
+                    }
+                numN++;
             }
-        numN++;
+    }
+    else
+    {
+       while(numN>(Num-1))
+           {
+               if(numN%2==0)
+                   {
+                       res = res + numN + " "; //накапливаем значения    
+                   }
+               numN--;
+           }
     }
     Console.WriteLine(res);
 }
