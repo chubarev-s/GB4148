@@ -52,39 +52,30 @@ long SumNumEvenPos(int[] arr)
 }
 
 //Метод нахождения пар
-int[] pairsOfNumbers(int[] arr)
+void PairsOfNumbers(int[] arr)
 {
     
     int[] res = new int[arr.Length];
     for(int i = 0; i < arr.Length-1; i++)
     {
-        for(int j = 1; j < arr.Length; j++)
+        for(int j = i+1; j < arr.Length; j++)
         {
             if(arr[i] == arr[j])
             {
                 res[i]=i;
                 res[j]=j;
+                Console.WriteLine($"Пара {arr[i]}, {arr[j]} с индексами {i}, {j}");
+                break;
             }
         }
     }
-    return res;
 }
-//Метод печати пар в массива
-void PrintCouple(int[] arr)
-{
 
-    
-    for (int i = 0; i < arr.Length - 1; i=i+2)
-    {
-        Console.WriteLine("[" + arr[i] + "," + arr[i+1] + "] ");        
-    }
-    
-}
 
 int len = ReadData("Введите длину массива: ");
 int[] arr = Gen1DArray(len, 0, 3);
 Print1Darray(arr);
 long sum = SumNumEvenPos(arr);
 Console.WriteLine("Сумма чисел, стоящих на чётных позициях массива, равна: "+sum);
-int[] prsOfNmb = pairsOfNumbers(arr);
-PrintCouple(prsOfNmb);
+PairsOfNumbers(arr);
+
